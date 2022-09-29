@@ -1,34 +1,19 @@
-### Mi nombre es Carlos Salvador 👋
+### Mi nombre es Duvan Arley Botero 👋
 #### Desarrollador web junior full-stack 💻♨️
 
-
-
-#### Actualmente me dedico a:
-
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías (Vue, Python, PhP)
-- Colaborar en un proyecto full stack 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Trabajando en Santander Global Tech como desarrollador Full Stack, principalmente en la parte front
-___
 
 
 #### Tengo conocimientos sobre:
 
 ##### Programming languages
 
-JavaScript, Php, TypeScript, SQL
+JavaScript,TypeScript, SQL, Java, Gosu Gw
 
 ____
 
 ##### FrontEnd Development
 
-Angular, Vue, JavaScript, HTML, CSS, Bootstrap, pug, hbs
-
-____
-
-##### Backend Development
-
-NodeJs, PHP, JavaScript
+Angular, JavaScript, HTML, CSS, Bootstrap
 
 _____
 
@@ -42,24 +27,6 @@ _____
  
  FireBase, Postman, Git y Github, SourceTree...
 
-
-#### Algunos de mis proyectos:
-
-<!-- imagenes para la tabla:
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a>   -->
-
-
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
-| Gym Database  | BurguerResponsivePage  | Chat(socket.io)  |
-|---|---|---|
-| <a href="https://https://github.com/carlossalvadordiaz/AppGymFront" target="_blank"> <img src="/images/listaClientesAngular.png" width="250" height="200"/></a> |  <a href="https://https://github.com/carlossalvadordiaz/Hamburgueseria" target="_blank"> <img src="/images/hamburguesa.jpg" width="250" height="200"/></a> | <a href="https://github.com/carlossalvadordiaz/Chat" target="_blank"> <img src="/images/chat.png" width="250" height="200"/></a>  |
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
 
 
 #### ¿Hablamos?☕️
