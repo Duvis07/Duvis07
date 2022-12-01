@@ -7,7 +7,7 @@
 
 ##### Programming languages
 
-JavaScript,TypeScript, SQL, Java, Gosu Gw
+JavaScript,TypeScript, SQL, Java, Gosu Gw, Gwt, Node Js
 
 ____
 
