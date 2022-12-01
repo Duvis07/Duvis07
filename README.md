@@ -25,7 +25,7 @@ _____
 
  ##### Others
  
- FireBase, Postman, Git y Github, SourceTree...
+ FireBase,Podman, Postman, Git y Github, SourceTree...
 
 
 
